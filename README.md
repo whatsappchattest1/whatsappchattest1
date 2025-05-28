@@ -24,8 +24,8 @@
       <td align="center" width="200"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="60"></td>
       <td align="center" width="200"><img src="https://angular.io/assets/images/logos/angular/angular.svg" width="60"></td>
       <td align="center" width="200"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="60"></td>
-      <td align="center" width="200"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21~bgwhite.svg" width="60"></td>
-      <td align="center" width="200"><img src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" width="60"></td>
+      <td align="center" width="200"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21~bgwhite.svg" width="120"></td>
+      <td align="center" width="200"><img src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" width="120"></td>
     </tr>
     <tr>
       <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="60"></td>
