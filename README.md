@@ -30,8 +30,8 @@
     <tr>
       <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="60"></td>
       <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="60"></td>
-      <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" width="60"></td>
-      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Cib-jquery_%28CoreUI_Icons_v1.0.0%29.svg" width="60"></td>
+      <td align="center"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21~bgwhite.svg" width="120"></td>
+      <td align="center"><img src="https://www.vectorlogo.zone/logos/jquery/jquery-official.svg" width="120"></td>
       <td align="center"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60"></td>
     </tr>
   </table>
